@@ -1,0 +1,31 @@
+ .about{
+    height: 70vh;
+    width: 98vw;
+    background-image: url(images/image\ \ \(11\).png);
+    background-position: center;
+    background-size: cover;
+ }
+
+ .blue-btn{
+    background-color: rgb(43, 180, 221) !important;
+    border: none !important;
+    border-radius: 2rem !important;
+    font-size: 15px !important;
+    font-weight: 500;
+}
+.green-btn{
+    background-color: rgb(27, 238, 133) !important;
+    border: none !important;
+    border-radius: 2rem !important;
+    font-size: 15px !important;
+    font-weight: 500;
+    height: 3rem !important;
+
+}
+ .money{
+    background-image: url(images/money.png);
+    height: 70vh;
+    width: 98vw;
+    background-position: center;
+    background-size: cover;
+}

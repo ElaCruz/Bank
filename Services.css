@@ -1,0 +1,22 @@
+
+ .services{
+    height: 70vh;
+    width: 98vw;
+    background-image: url(images/dollars.png);
+    background-position: center;
+    background-size: cover;
+ }
+ .robot{
+    background-image: url(images/robot.png);
+    background-position: center;
+    background-size: cover;
+    width: 98vw;
+    height: 60vh;
+ }
+ .hands{
+    background-image: url(images/hands.png);
+    height: 93vh;
+    width: 98vw;
+    background-position: center;
+    background-size: cover;
+}

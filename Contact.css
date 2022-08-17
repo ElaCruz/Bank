@@ -1,0 +1,8 @@
+
+.blog{
+    background-image: url(images/disney.png);
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+    width: 98vw;
+}
